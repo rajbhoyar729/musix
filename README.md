@@ -1,7 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Musix
 
-## Getting Started
-
+This project aims to create a robust and user-friendly music streaming application. Users can discover, play, and manage their favorite music.
+-
+## Getting Started 
 First, run the development server:
 
 ```bash
