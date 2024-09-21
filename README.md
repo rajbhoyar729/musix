@@ -1,7 +1,7 @@
 # Musix
- a Music streaming sie 
+This project aims to create a robust and user-friendly music streaming application. Users can discover, play, and manage their favorite music
 
-
+--
 ## Getting Started
 
 First, run the development server:
